@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.boder {
+  gap: 10px;
+  justify-content: center;
+  margin: 10px;
+}
+h1 {
+  font-size: 25px;
+  border-bottom: 1px solid black;
+  color: rgb(116, 233, 233);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.text1 {
+  margin-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 15px;
+}
+.gach1 {
+  border-bottom: 1px solid grey;
+}
+.gach2 {
+  border-bottom: 1px dotted grey;
+  padding-bottom: 5px;
+}

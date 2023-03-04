@@ -1,0 +1,30 @@
+@media (max-width: 767px) {
+  /* banner */
+  .banner-textbox {
+    left: 30%;
+  }
+  #nav-bar ul {
+    display: block;
+    margin-bottom: 20px;
+    text-align: start;
+  }
+  #nav-bar li {
+    margin-bottom: 20px;
+  }
+  #nav-bar li:last-child {
+    margin-bottom: 0;
+  }
+  #nav-bar a:link,
+  a:visited {
+    border-right: none;
+    
+  }
+  .title{
+    font-size: 20px;
+    padding-left: 5px;
+  }
+  /* phan4 */
+  .box7 {
+    gap: 20px;
+  }
+}

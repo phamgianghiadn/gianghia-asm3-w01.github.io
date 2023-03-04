@@ -1,0 +1,29 @@
+@media (max-width: 1024px) {
+  /* banner */
+  .banner-textbox {
+    top: 20%;
+  }
+  /* phan1 */
+  .text {
+    display: none;
+  }
+  /* phan2 */
+  #about {
+    margin-top: -15px;
+  }
+  /* phan4 */
+  .gach-chan {
+    border-bottom: none;
+    display: block;
+  }
+  .border-left {
+    border-left: none;
+    padding-left: 0;
+  }
+  .title{
+    font-size: 10px;
+    padding-left: 2px;
+  }
+  /* fotter */
+  
+}
